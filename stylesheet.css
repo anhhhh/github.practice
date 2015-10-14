@@ -1,0 +1,74 @@
+p {
+    /*color: red;*/
+    font-family: Arial;
+    font-size: 20px;
+    font-family: 'Open Sans', sans-serif;
+    /*background: red;*/
+}
+
+/*body {*/
+/*    background-image: url("http://www.wanderus.com/uploads/5/6/3/4/56342387/1438144282.png");*/
+/*}*/
+
+div p {
+    color: blue;
+    font-size: 10px;
+}
+
+.class_test {
+    color: yellow;
+    font-size: 30px;
+}
+
+#id_test {
+    color: green;
+    font-size: 25px;
+}
+
+.hover_test:hover{
+    color: purple;
+    font-size: 50px;
+}
+
+.clicked:visited {
+    background: black; /*not sure if this work - rick will get back later*/
+    color: #186400;
+}
+
+h1 {
+    font-size: 5em;
+    color: #2952A3 ;
+    font-family: Helvetica;
+    text-align: center;
+}
+
+p {
+    font-size: 2em;
+    text-align: center;
+}
+
+div {
+    height: 50px;
+    width: 120px;
+    border-color: #6495ED ;
+    border-width: 2px;
+    border-style: solid;
+    background: #BCD2EE ;
+    border-radius: 20px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+a {
+    text-decoration: none;
+}
+
+.button {
+    text-align: center;
+    color: #2952a3 ;
+    font-size: 1em;
+}
+
+div:hover {
+    background-color: #FF3300 ;
+}
